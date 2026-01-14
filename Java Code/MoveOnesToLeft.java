@@ -1,4 +1,3 @@
-package LeetCode.learn;
 import java.util.Arrays;
 public class MoveOnesToLeft {
     public static void main(String[] args) {

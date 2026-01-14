@@ -17,3 +17,4 @@ class AbstractTest{
 		nad.show();
 		System.out.println(nad.add(4,5));
 	}
+}

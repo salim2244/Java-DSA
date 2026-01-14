@@ -1,5 +1,3 @@
-package LeetCode.learn;
-
 interface InnerAbstractClass {
 
     static void add(){

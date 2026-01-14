@@ -1,5 +1,3 @@
-package LeetCode.learn;
-
 public class Inheritance {
     public static void main(String[] args) {
         int a = 10; 

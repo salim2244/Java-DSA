@@ -1,4 +1,3 @@
-package LeetCode.learn;
 import java.util.*;
 
 public class MoveOnesToRight {

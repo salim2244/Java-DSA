@@ -1,5 +1,3 @@
-package LeetCode;
-
 public class ArrayDemo {
     public static void main(String[]args){
 		int[][] ar={{1,3,5,7},{2,4},{10,20,30},{11}};

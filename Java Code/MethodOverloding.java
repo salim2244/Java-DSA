@@ -1,5 +1,3 @@
-package LeetCode.learn;
-
 public class MethodOverloding {
     public static void main(String[] args) {
         int a = 5;

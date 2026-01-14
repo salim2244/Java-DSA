@@ -1,6 +1,4 @@
-package LeetCode.learn;
-
- class Animal{
+class Animal{
     public void bark(){
         System.out.println("this is dog from animal class");
     }

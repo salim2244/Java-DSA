@@ -1,5 +1,3 @@
-package StringCode;
-
 import java.lang.reflect.Array;
 
 public class StringReverse {
